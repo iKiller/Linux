@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+#swap
+*.swp
+*.txt
